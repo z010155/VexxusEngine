@@ -1,0 +1,16 @@
+0: Item
+	0: Scrap item
+	1: Starts Quest
+1: equippable
+	0: weapon
+	1: armor
+	2: class
+	3: stat bonus
+2: usable
+	0: potion
+	1: bonus item
+	2: teleport
+	3. container
+	Subtype:
+		0: not consumed on use
+		1: consumed on use
